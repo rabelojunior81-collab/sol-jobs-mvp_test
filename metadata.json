@@ -1,0 +1,8 @@
+{
+  "name": "SOL-Jobs (Trampos)",
+  "description": "A high-performance Web3 freelancer ecosystem combining TikTok-style discovery feeds, Tinder-style matching, and trustless smart escrow for the Brazilian Gig Economy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
